@@ -1,3 +1,5 @@
-= GPUtty - a terminal emulator based on Kovid Goyal's kitty (see https://sw.kovidgoyal.net/kitty/ for more information).
+= GPUtty - YATE (yet another terminal emulator)
+
+Based on Kovid Goyal's kitty (see https://sw.kovidgoyal.net/kitty/ for more information). Forked so that I can experiment with adding features Kovid has expressed unwillingness to implement. Also, I'm open to seekng feature parity with PuTTY and KiTTY.
 
 image:https://github.com/sydbarrett74/GPUtty/workflows/CI/badge.svg["Build status", link="https://github.com/sydbarrett74/GPUtty/actions?query=workflow%3ACI"]
